@@ -1,4 +1,4 @@
-# Pre-work - Tippo
+# Tip Calculator - Tippo
 
 Tippo is a tip calculator application for iOS.
 
